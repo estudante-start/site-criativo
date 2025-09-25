@@ -1,0 +1,12 @@
+header{
+    color:grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+span{
+    background-color: blueviolet;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+}
